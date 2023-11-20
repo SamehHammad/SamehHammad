@@ -3,6 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35%C2%A2er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sameh+Hammad!;" />
 </h1>
+https://github.com/SamehHammad/SamehHammad/assets/68395364/f8df64f2-5c7b-4645-8e0c-a20ac4022551
 
 <h3 align="center">Front-end Developer using Reactjs || Next.js</h3>
 
