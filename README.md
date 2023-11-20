@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Junior Developer with 2+ years experience in building responsive websites with HTML,CSS,SASS, Bootstrap, JavaScript and Redux. Expertise in frameworks like React.js , React native and Angular in agile environment using git as version control.Passionate about clean code and get things done.
+ Junior Developer with 2+ years experience in building responsive websites with HTML,CSS,SASS, Bootstrap, JavaScript and Redux. Expertise in frameworks like React.js ,React native and Angular in agile environment using git as version control.Passionate about clean code and get things done.
 
  </div>
  
