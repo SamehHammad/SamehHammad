@@ -4,8 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35%C2%A2er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sameh+Hammad!;" />
 </h1>
 
-<h3 align="center">Front-end Developer using Reactjs || Next.js</h3>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35%C2%A2er=true&vCenter=true&width=500&height=70&duration=4500&lines=Front-end+Developer!+%E2%AD%90;+Using+ReactJs+||+NextJs!;" />
+</h1>
 <br/>
 
 <div align="center">
