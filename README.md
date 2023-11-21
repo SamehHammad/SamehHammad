@@ -7,9 +7,9 @@
 <br/>
 
 <div align="center">
- <h4>
+ <h2 style="color:red;letter-spacing:2px">
  Junior Developer with 2+ years experience in building responsive websites with HTML,CSS,SASS, Bootstrap, JavaScript and Redux. Expertise in frameworks like React.js ,React native and Angular in agile environment using git as version control.Passionate about clean code and get things done.
- </h4>
+ </h2>
 
  </div>
  
