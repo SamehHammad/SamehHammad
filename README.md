@@ -1,17 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pjreddie.pjreddie" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35%C2%A2er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sameh+Hammad!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35%C2%A2er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sameh+Hammad!;Front-end+Developer+;Using+ReactJs+%7C%7C+NextJs;" />
 </h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=37&pause=1000&color=5F1C57&random=false&width=435&lines=Front-end+Developer+;Using+ReactJs+%7C%7C+NextJs;" />
-</h1>
 <br/>
 
 <div align="center">
- 
+ <h4>
  Junior Developer with 2+ years experience in building responsive websites with HTML,CSS,SASS, Bootstrap, JavaScript and Redux. Expertise in frameworks like React.js ,React native and Angular in agile environment using git as version control.Passionate about clean code and get things done.
+ </h4>
 
  </div>
  
@@ -48,6 +46,5 @@
 </div>
 
 <hr/>
-
 
 <br/>
