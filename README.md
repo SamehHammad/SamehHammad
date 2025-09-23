@@ -8,7 +8,7 @@
 
 <div align="center">
  <h2>
- Junior Developer with 2+ years experience in building responsive websites with HTML,CSS,SASS, Bootstrap, JavaScript and Redux. Expertise in frameworks like React.js(Next.js) ,React native and Angular in agile environment using git as version control.Passionate about clean code and get things done.
+ Front-end Developer with 4+ years experience in building responsive websites with HTML,CSS,SASS, Bootstrap, JavaScript and Redux. Expertise in frameworks like React.js(Next.js v13...,v14...,v15...,v16) ,React native and Angular in agile environment using git as version control.Passionate about clean code and get things done.
  </h2>
 
  </div>
